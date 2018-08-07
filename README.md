@@ -4,16 +4,18 @@ This repository contains a blank project to face an small challenge where the de
 
 Car Dealer for iOS Challenge offers an app using a static text file **models-json.txt** to get data. Your challenge is to complete the tasks below within 1 hour of time.
 
+<img src="https://github.com/vhtruongvn/CarDealerDemo/blob/master/splash_screen.png" width="320">
+
 ## Tasks
 Your task as iOS Developer is **clone** or **fork** this repository into one yours, **implement some functionalities** while sharing your screen with us.
 
 ###### New functionalities to add
 
 1. Show a list of manufacturers as home screen
-<img src="https://cloud.githubusercontent.com/assets/144786/21882223/1f200fa0-d8dc-11e6-99f2-fe235ad1107c.jpg" width="320">
+<img src="https://github.com/vhtruongvn/CarDealerDemo/blob/master/home_screen.png" width="320">
 
 2. Create a list of a cars by manufacturer, accessing to it by clicking a manufacturer image in the list of manufacturers
-<img src="https://cloud.githubusercontent.com/assets/144786/21882281/58eebdb2-d8dc-11e6-9410-59dd272c344a.jpg" width="320">
+<img src="https://github.com/vhtruongvn/CarDealerDemo/blob/master/details_screen.png" width="320">
 
 ###### Some optional tasks to do:
 
