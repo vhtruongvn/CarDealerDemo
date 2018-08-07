@@ -49,6 +49,7 @@
 		8F0BB9692119794D003622ED /* CarDealerDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarDealerDemoUITests.swift; sourceTree = "<group>"; };
 		8F0BB96B2119794D003622ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8F0BB9772119796F003622ED /* models-json.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "models-json.txt"; sourceTree = "<group>"; };
+		8F17C66A21197C250075CD4B /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +80,7 @@
 		8F0BB93D2119794D003622ED = {
 			isa = PBXGroup;
 			children = (
+				8F17C66A21197C250075CD4B /* README.md */,
 				8F0BB9482119794D003622ED /* CarDealerDemo */,
 				8F0BB95D2119794D003622ED /* CarDealerDemoTests */,
 				8F0BB9682119794D003622ED /* CarDealerDemoUITests */,
