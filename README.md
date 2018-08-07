@@ -14,6 +14,8 @@ Your task as iOS Developer is **clone** or **fork** this repository into one you
 1. Show a list of manufacturers as home screen
 <img src="https://github.com/vhtruongvn/CarDealerDemo/blob/master/home_screen.png" width="320">
 
+Note: user this format **https://www.auto-data.net/img/logos/{manufacturer_title}.png** to generate manufacturer's image url
+
 2. Create a list of a cars by manufacturer, accessing to it by clicking a manufacturer image in the list of manufacturers
 <img src="https://github.com/vhtruongvn/CarDealerDemo/blob/master/details_screen.png" width="320">
 
