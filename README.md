@@ -2,12 +2,10 @@
 iOS developers face challenges almost everyday during development: performance, security, backwards compatibility, testing... And mainly refactoring for it's own or legacy code.
 This repository contains a blank project to face an small challenge where the developer should add some new features, add tests, re-think the architecture and do a clean code.
 
-Car Dealer for iOS Challenge offers an app using a static text file **models-json.txt** to get data. Your challenge is to complete the 2 tasks below within 1 hour of time.
+Car Dealer for iOS Challenge offers an app using a static text file **models-json.txt** to get data. Your challenge is to complete the tasks below within 1 hour of time.
 
 ## Tasks
-Your task as Android Developer is **clone** or **fork** this repository into one yours, **add some functionalities** and **refactor** the code before you give access to your repository.
-
-**The code in this application it's ready to be imported into your Android Studio and ready to run it (and see it working) without any change**
+Your task as iOS Developer is **clone** or **fork** this repository into one yours, **implement some functionalities** while sharing your screen with us.
 
 ###### New functionalities to add
 
